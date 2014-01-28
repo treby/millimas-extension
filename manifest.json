@@ -1,5 +1,17 @@
 {
     "manifest_version": 2,
     "name": "Millimas Extension",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "tabs",
+        "http://imas.gree-apps.net/*"
+    ],
+    "browser_action": {
+    },
+    "background": {
+        "persistent": true,
+        "page": "background.html"
+    }
 }
