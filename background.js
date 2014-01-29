@@ -19,7 +19,9 @@ function setUserAgent(info) {
 
 var config = {
     urls: [
-        'http://imas.gree-apps.net/*'
+        'http://imas.gree-apps.net/*',
+        'http://pf.gree.jp/58737*',
+        'http://pf.gree.net/58737*'
     ],
     types: [
         "main_frame",
