@@ -1,5 +1,4 @@
 function goToImasTop() {
-    console.log('Going to imas top...');
     chrome.tabs.getAllInWindow(undefined, function(tabs) {
     });
 

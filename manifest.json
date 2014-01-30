@@ -5,6 +5,7 @@
     "permissions": [
         "webRequest",
         "webRequestBlocking",
+        "storage",
         "tabs",
         "http://imas.gree-apps.net/*"
     ],
