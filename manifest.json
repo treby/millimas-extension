@@ -7,7 +7,9 @@
         "webRequestBlocking",
         "storage",
         "tabs",
-        "http://imas.gree-apps.net/*"
+        "http://imas.gree-apps.net/*",
+        "http://*.gree.net/*",
+        "http://*.gree.jp/*"
     ],
     "browser_action": {
         "default_title": "Millimas Extension"
