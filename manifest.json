@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Millimas Extension",
+    "description": "PCからミリマスをプレイ！",
     "version": "0.0.1",
     "permissions": [
         "webRequest",
