@@ -22,6 +22,7 @@ var config = {
         'http://pf.gree.jp/58737*',
         'http://pf.gree.net/58737*',
         'http://id.gree.net/*',
+        'http://apps.gree.net/*',
         'http://coin.gree.net/*'
     ],
     types: [
